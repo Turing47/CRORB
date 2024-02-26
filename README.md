@@ -14,7 +14,6 @@ Please refer to our publication for a detailed explanation of our approach and i
 ## Citation
 If you utilize CRORB (Monocular) in your academic research, please cite our work as follows:
 
-    ```bibtex
     @ARTICLE{10103583,
       author={Zhang, Rui and Worley, Rob and Edwards, Sarah and Aitken, Jonathan and Anderson, Sean R. and Mihaylova, Lyudmila},
       journal={IEEE Robotics and Automation Letters}, 

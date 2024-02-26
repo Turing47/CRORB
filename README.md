@@ -9,7 +9,7 @@ This work introduces a novel approach to visual Simultaneous Localization and Ma
 ## Related Publications
 Please refer to our publication for a detailed explanation of our approach and its advantages:
 
-> R. Zhang, R. Worley, S. Edwards, J. Aitken, S. R. Anderson, and L. Mihaylova, "Visual Simultaneous Localization and Mapping for Sewer Pipe Networks Leveraging Cylindrical Regularity," in IEEE Robotics and Automation Letters, vol. 8, no. 6, pp. 3406-3413, June 2023, doi: 10.1109/LRA.2023.3268013. **[PDF]**(https://www.researchgate.net/publication/370081437_Visual_Simultaneous_Localisation_and_Mapping_for_Sewer_Pipe_Networks_Leveraging_Cylindrical_Regularity)
+> R. Zhang, R. Worley, S. Edwards, J. Aitken, S. R. Anderson, and L. Mihaylova, "Visual Simultaneous Localization and Mapping for Sewer Pipe Networks Leveraging Cylindrical Regularity," in IEEE Robotics and Automation Letters, vol. 8, no. 6, pp. 3406-3413, June 2023, doi: 10.1109/LRA.2023.3268013. **[PDF](https://www.researchgate.net/publication/370081437_Visual_Simultaneous_Localisation_and_Mapping_for_Sewer_Pipe_Networks_Leveraging_Cylindrical_Regularity)**.
 
 ## Citation
 If you utilize CRORB (Monocular) in your academic research, please cite our work as follows:

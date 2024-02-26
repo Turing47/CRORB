@@ -14,19 +14,17 @@ Please refer to our publication for a detailed explanation of our approach and i
 ## Citation
 If you utilize CRORB (Monocular) in your academic research, please cite our work as follows:
 
-```bibtex
-@ARTICLE{10103583,
-  author={Zhang, Rui and Worley, Rob and Edwards, Sarah and Aitken, Jonathan and Anderson, Sean R. and Mihaylova, Lyudmila},
-  journal={IEEE Robotics and Automation Letters}, 
-  title={Visual Simultaneous Localization and Mapping for Sewer Pipe Networks Leveraging Cylindrical Regularity}, 
-  year={2023},
-  volume={8},
-  number={6},
-  pages={3406-3413},
-  doi={10.1109/LRA.2023.3268013}
-}
-
-
+    ```bibtex
+    @ARTICLE{10103583,
+      author={Zhang, Rui and Worley, Rob and Edwards, Sarah and Aitken, Jonathan and Anderson, Sean R. and Mihaylova, Lyudmila},
+      journal={IEEE Robotics and Automation Letters}, 
+      title={Visual Simultaneous Localization and Mapping for Sewer Pipe Networks Leveraging Cylindrical Regularity}, 
+      year={2023},
+      volume={8},
+      number={6},
+      pages={3406-3413},
+      doi={10.1109/LRA.2023.3268013}
+    }
 
 ## Prerequisites, Building and Monocular Examples
 The setup and implementation details for CRORB remain consistent with those established for ORB-SLAM2. For comprehensive instructions on prerequisites, building the project, and running monocular examples, please refer to the original [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2).
